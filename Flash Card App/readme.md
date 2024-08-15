@@ -1,6 +1,3 @@
-Here’s how you can structure your `README.md` file:
-
-```markdown
 # Flash Card App
 
 Welcome to the Flash Card App! This guide will help you get started with the app and use it effectively. This app helps you learn Korean vocabulary using flash cards.
@@ -20,7 +17,7 @@ The app displays flash cards with Korean words and allows you to mark words as �
 
 2. **Prepare Your Files**: 
    - Ensure you have a file named `file.csv` in the `data` folder. The file should be formatted as follows:
-     ```
+     ```bash
      Korean Word,English Meaning,Hindi Meaning,Definition,Korean Sentence,Hindi Sentence
      가게,"Store, Shop","इकट्ठा करना","A place where goods are sold","가게에 물건을 사러 갑니다.","मैं दुकान से सामान खरीदने जा रहा हूँ।"
      ```
@@ -30,7 +27,7 @@ The app displays flash cards with Korean words and allows you to mark words as �
 
 1. **Launch the App**: Run the app by executing the Python script. Open a terminal or command prompt, navigate to the directory containing the script, and run:
    ```bash
-   python your_script_name.py
+   python main.py
    ```
 
 2. **App Window**: The app will open a window displaying a flash card. The card will show a Korean word and sentence. After a few seconds, it will flip to reveal the English and Hindi meanings.
@@ -63,11 +60,9 @@ The app displays flash cards with Korean words and allows you to mark words as �
 
 ## Contact and Support
 
-For further assistance or questions, reach out to [your_contact_email] for support.
+For further assistance or questions, reach out to `hariomdhakad1@gmail.com` for support.
 
 ---
 
 Enjoy learning with your Flash Card App! Happy studying!
 ```
-
-Feel free to replace `[your_contact_email]` with your actual contact email or support channel.
