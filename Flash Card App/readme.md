@@ -60,7 +60,7 @@ The app displays flash cards with Korean words and allows you to mark words as â
 
 ## Contact and Support
 
-For further assistance or questions, reach out to `hariomdhakad1@gmail.com` for support.
+For further assistance or questions, reach out to [hariomdhakad1@outlook.com](mailto:hariomdhakad1@outlook.com) for support.
 
 ---
 
